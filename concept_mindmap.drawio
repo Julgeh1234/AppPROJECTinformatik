@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="26.1.0">
   <diagram name="Seite-1" id="nDkISgKPaEbK3jF0lKiW">
-    <mxGraphModel dx="2691" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2395" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,6 +75,12 @@
         </mxCell>
         <mxCell id="dzxk9KiX_uyymcio7K0R-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.629;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dzxk9KiX_uyymcio7K0R-23" target="dzxk9KiX_uyymcio7K0R-21">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dzxk9KiX_uyymcio7K0R-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dzxk9KiX_uyymcio7K0R-31" target="dzxk9KiX_uyymcio7K0R-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dzxk9KiX_uyymcio7K0R-31" value="Extrafunktionen:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Favoritenfunktion&lt;/div&gt;&lt;div&gt;Budget filtern&lt;/div&gt;&lt;div&gt;Easter Eggs&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="20" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
