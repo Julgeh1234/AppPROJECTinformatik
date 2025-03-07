@@ -1,6 +1,6 @@
 Kriterien:
 - Anlass (z. B. Weihnachten, Geburtstag, Dankeschön)
-- Interessen des Empfängers
+- Interessen des Empfängers (z. B. Sport, Essen, Gutschein)
 - Praktisch
 - Luxuriös
 - Kreativ
@@ -8,6 +8,7 @@ Kriterien:
 Extrafunktion:
 - Budget
 - Easter Eggs
+- Favouritenliste
 
 
 
