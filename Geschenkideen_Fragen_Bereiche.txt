@@ -1,0 +1,17 @@
+Kriterien:
+- Anlass (z. B. Weihnachten, Geburtstag, Dankeschön)
+- Interessen des Empfängers
+- Praktisch
+- Luxuriös
+- Kreativ
+
+Extrafunktion:
+- Budget
+- Easter Eggs
+
+
+
+
+
+
+Code < Funktionalität < Design
